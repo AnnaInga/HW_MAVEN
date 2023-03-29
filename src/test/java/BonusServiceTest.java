@@ -68,7 +68,7 @@ public class BonusServiceTest {
     }
 
     @Test
-    void shouldCalculateForRegisteredZero() {
+    void shouldCalculateForRegisteredZwro() {
         BonusService service = new BonusService();
 
         // подготавливаем данные:
